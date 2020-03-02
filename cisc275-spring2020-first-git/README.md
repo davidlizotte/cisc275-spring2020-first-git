@@ -2,5 +2,10 @@
 1. Create java files to make this code compile and run.
 
 2. What five objects are created in the main?
+the list of dogs 
+the three dogs
+the comparator object
 
 3. Can you spot the Comparator constructor call? Where is the class definition for the Comparator?
+
+the constructor call in new Comparator<Animal>() the class definition is found in the comparator class.
